@@ -1,0 +1,33 @@
+{
+   "name": "ponpon",
+   "version": "1.0.0",
+   "description": "literally just a proxy to pnpm",
+   "main": "index.js",
+   "files": [
+      "bin"
+   ],
+   "bin": {
+      "ponpon": "bin/ponpon.js",
+      "ponponx": "bin/ponponx.js"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/autumnblazey/ponpon.git"
+   },
+   "keywords": [
+      "pnpm",
+      "proxy",
+      "ponpon",
+      "pone",
+      "pony"
+   ],
+   "author": "Alexander Liu (autumnblazey)",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/autumnblazey/ponpon/issues"
+   },
+   "homepage": "https://github.com/autumnblazey/ponpon#readme",
+   "dependencies": {
+      "pnpm": "5.15.1"
+   }
+}
