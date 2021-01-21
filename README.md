@@ -16,4 +16,5 @@ Alternatively, just use pnpm directly
 
 ## versions
 
-- `ponpon@1.0.0` -> `pnpm@5.15.1`
+- `ponpon@1.0.0` -> `pnpm@5.15.1` *deprecated, use 1.0.1 instead, this one didn't work*
+- `ponpon@1.0.1` -> `pnpm@5.15.1`
